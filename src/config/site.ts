@@ -43,7 +43,7 @@ export const getSiteMetadata = (locale?: Locale) =>
 export const heroCtas: Record<Locale, HeroCtas> = {
   en: [
     {
-      label: "Call for proposals (TBD)",
+      label: "Call for proposals",
       href: "/cfp",
     },
     {
@@ -57,7 +57,7 @@ export const heroCtas: Record<Locale, HeroCtas> = {
   ],
   "zh-tw": [
     {
-      label: "徵稿 (TBD)",
+      label: "徵稿",
       href: "/cfp",
     },
     {

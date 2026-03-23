@@ -36,8 +36,13 @@ export const navigation: NavigationSettings = {
       items: [
         {
           key: "navTravelGrant",
-          path: "/travel/travel-grant",
+          path: "/venue-and-travel/travel-grant",
           hash: "#travel-grant",
+        },
+        {
+          key: "navVisas",
+          path: "/venue-and-travel/visas-and-other-travel-requirements.mdx",
+          hash: "visas",
         },
       ],
     },

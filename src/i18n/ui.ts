@@ -12,7 +12,8 @@ export const ui = {
     navCfp: "CFP",
     navTravelGrant: "Travel grant",
     navSponsorship: "Sponsorship",
-    navTravel: "Travel",
+    navTravel: "Venue & Travel",
+    navVisas: "Visas and other travel requirements",
     navUpdates: "Updates",
     navProgram: "Program",
     navMenu: "Menu",
@@ -54,7 +55,8 @@ export const ui = {
     navCfp: "CFP",
     navTravelGrant: "Travel grant",
     navSponsorship: "贊助",
-    navTravel: "旅遊資訊",
+    navTravel: "Venue & Travel",
+    navVisas: "Visas and other travel requirements",
     navUpdates: "最新消息",
     navProgram: "議程",
     navMenu: "選單",
@@ -99,6 +101,7 @@ export type UiKey =
   | "navSponsorship"
   | "navTravel"
   | "navTravelGrant"
+  | "navVisas"
   | "navUpdates"
   | "navProgram"
   | "navMenu"

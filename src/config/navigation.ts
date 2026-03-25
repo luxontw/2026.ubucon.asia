@@ -41,7 +41,7 @@ export const navigation: NavigationSettings = {
         },
         {
           key: "navVisas",
-          path: "/venue-and-travel/visas-and-other-travel-requirements.mdx",
+          path: "/venue-and-travel/visas-and-other-travel-requirements",
           hash: "visas",
         },
       ],
